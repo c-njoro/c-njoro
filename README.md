@@ -65,4 +65,4 @@ I'm always open to connecting with like-minded developers and collaborating on e
 
 - 📧 **Email:** njorodev1319@gmail.com  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/charles-njoroge-063b0626a)  
-- 🌐 [**Portfolio**](dev-charles.vercel.app)  
+- 🌐 [**Portfolio**](https://dev-charles.vercel.app)  
