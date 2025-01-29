@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about creating s
 ## 🛠️ Tech Stack  
 
 ### **Languages**  
-- JavaScript (ES6+), TypeScript, Python, Java, C++  
+- JavaScript (ES6+), TypeScript, Python, Java  
 
 ### **Frontend**  
 - React.js, Next.js, Tailwind CSS, HTML/CSS  
@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about creating s
 - Node.js, Express.js, RESTful APIs  
 
 ### **Databases**  
-- MongoDB, MySQL  
+- MongoDB
 
 ### **Tools & Platforms**  
 - Git, Docker, Cloudinary, Linux/Ubuntu, VS Code  
