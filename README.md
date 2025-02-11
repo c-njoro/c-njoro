@@ -54,7 +54,7 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about creating s
 - [**Ecommerce Store**](https://c-techs-online-shop.vercel.app/)  
    Full-stack MERN store featuring product filtering, authentication, and cart functionality
 
-  - [**A personal profile website**](https://dev-charles.vercel.app/)  
+- [**A personal profile website**](https://dev-charles.vercel.app/)  
    Full-stack MERN store featuring product filtering, authentication, and cart functionality  
 
 - [**Mobile App Demo**](https://github.com/c-njor/Meditation-App)  
