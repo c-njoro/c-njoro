@@ -49,13 +49,13 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about creating s
 ## 🌟 Featured Projects  
 
 - [**Real Estate Web App**](https://real-estate-iota-teal.vercel.app/)  
-   Scalable Next.js app for browsing properties with real-time data integration  
+   Scalable Next.js app for browsing properties with real-time data integration and inquiring property agency about it via call or whatsapp. 
 
 - [**Ecommerce Store**](https://c-techs-online-shop.vercel.app/)  
-   Full-stack MERN store featuring product filtering, authentication, and cart functionality
+   Full-stack MERN store featuring product filtering, authentication, and cart functionality. Making orders and also tracking them. Also managers panel for stock and orders management.
 
 - [**A personal profile website**](https://dev-charles.vercel.app/)  
-   Full-stack MERN store featuring product filtering, authentication, and cart functionality  
+   Scalable personal appearance on the internet to showcase skills, projects, ratings and also contacts. 
 
 - [**Mobile App Demo**](https://github.com/c-njor/Meditation-App)  
    Cross-platform React Native app with secure login and real-time notifications  
