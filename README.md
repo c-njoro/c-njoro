@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charles Njoroge  
 
-Welcome to my GitHub! I'm a **full-stack developer** passionate about creating scalable, secure, and feature-rich applications. With expertise in modern technologies, I strive to deliver seamless and impactful digital experiences.  
+Welcome to my GitHub! I'm a **full-stack web and mobile  developer** passionate about creating scalable, secure, and feature-rich applications. With expertise in modern technologies, I strive to deliver seamless and impactful digital experiences.  
 
 ---
 
