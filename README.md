@@ -5,7 +5,13 @@ Welcome to my GitHub! I'm a **full-stack web and mobile  developer** passionate 
 
 ---
 # 💫 About Me:
-🔭 I’m currently working on an online e-commerce platform and a mobile app for the same<br>👯 I’m looking to collaborate on web development and mobile development projects<br><br>🌱 I’m currently learning 3D js<br>💬 Ask me about web developent projects and mobile development<br>
+🚀 Founder & Developer of **FundiConnect** — a platform that helps people find trusted fundis in major Kenyan cities  
+🔭 Currently building the **backend** and **web app**, with a **mobile app coming next**
+
+💼 FundiConnect allows users to post jobs, receive fundi proposals, accept or reject offers, and pay securely using **escrow payments**
+
+🌱 Learning **Three.js**  
+💬 Ask me about **Node.js backends**, **REST APIs**, **web apps**, and **mobile development**
 
 
 ## 🌐 Socials:
